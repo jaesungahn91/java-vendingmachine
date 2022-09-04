@@ -49,9 +49,9 @@ public class Drink {
     @Override
     public String toString() {
         return "Drink{" +
-                "name='" + name + '\'' +
-                ", count=" + count +
-                ", amount=" + amount +
+                "name = '" + name + '\'' +
+                ", count = " + count +
+                ", amount = " + amount +
                 '}';
     }
 }
